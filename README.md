@@ -4,7 +4,7 @@ I'm a 21 years old computer science student and backend software engineer intere
 I love going on hours-long Wikipedia binges about computers and software, I love open source, and I love using stuff in ways that you're not supposed to.\
 Also, I think Linux is neat.
 
-You can reach me by email: [cyra@cyra.pink](mailto:cyra@cyra.pink)
+You can reach me by email: [cyra@cyra.pink](mailto:cyra@cyra.pink)\
 Or send me a message on Twitter: [@cyradotpink](https://twitter.com/cyradotpink)
 
 ❤️
