@@ -5,6 +5,7 @@ I love going on hours-long Wikipedia binges about computers and software, I love
 Also, I think Linux is neat.
 
 You can reach me by email: [cyra@cyra.pink](mailto:cyra@cyra.pink)
+Or send me a message on Twitter: [@cyradotpink](https://twitter.com/cyradotpink)
 
 ❤️
 
