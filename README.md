@@ -1,8 +1,8 @@
 Hi, I'm Cyra :)
 
-I'm a 21 years old computer science student and backend software engineer interested in web apps, databases, networks, and the low-level magic that makes it all possible.\
-I love going on hours-long Wikipedia binges about computers and software, I love open source, and I love using stuff in ways that you're not supposed to.\
-Also, I think Linux is neat.
+I'm a computer science student and backend software engineer interested in web apps, databases, networks, highly robust and scalable services, and also pretty much everything else that computers get up to.\
+I love going on long Wikipedia binges about computers and software, I love open source, and I love using web browsers in ways that you're not supposed to.\
+Right now, I'm trying to really get hands-on with the lower-level stuff that I've previously been afraid of touching. Reading about operating systems and kernels and drivers and hacking is fun, but sadly nobody will pay me to read documentation.
 
 You can reach me by email: [cyra@cyra.pink](mailto:cyra@cyra.pink)\
 Or send me a message on Twitter: [@cyradotpink](https://twitter.com/cyradotpink)
